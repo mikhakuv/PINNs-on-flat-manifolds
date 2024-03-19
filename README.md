@@ -17,32 +17,44 @@ $$u(x,y,0) = u_0(x,y)$$
 Notable examples:  
 * $u_0(x,y)=5\cdot exp(-\frac{8}{10}(x-\frac{3\pi}{2})^2 - 8(y+1)^2),\ f(x,y,t)=0$
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp1.png"><br><caption>initial condition</caption></p>  
+initial condition:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp1.png"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp1.gif"><br><caption>solution</caption></p>  
+solution:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp1.gif"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp1.gif"><br><caption>same solution on flat manifold</caption></p>  
+same solution on flat manifold:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp1.gif"></p>  
 
 * $u_0(x,y)=0,\ f(x,y,t)=5\cdot exp(-\frac{3}{10}(x-\frac{3\pi}{2})^2 - (y+1)^2)\cdot sin(2\pi t)$
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp2.png"><br><caption>initial condition</caption></p>  
+initial condition:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp2.png"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp2.gif"><br><caption>solution</caption></p>  
+solution:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp2.gif"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp2.gif"><br><caption>same solution on flat manifold</caption></p>  
+same solution on flat manifold:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp2.gif"></p>  
 
 * $u_0(x,y)=0,\ f(x,y,t)=5\cdot exp(-3(x-1-2(\pi-1)t)^2-5(y+1-2t)^2)$
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp4.png"><br><caption>initial condition</caption></p>  
+initial condition:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp4.png"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp4.gif"><br><caption>solution</caption></p>  
+solution:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp4.gif"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp4.gif"><br><caption>same solution on flat manifold</caption></p>  
+same solution on flat manifold:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp4.gif"></p>  
 
 * $u_0(x,y)=0,\ f(x,y,t)=5\cdot sin(\frac{3x}{2}+2\pi t)\cdot sin(\pi y)$
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp5.png"><br><caption>initial condition</caption></p>  
+initial condition:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/conditions/u_0_exp5.png"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp5.gif"><br><caption>solution</caption></p>  
+solution:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp5.gif"></p>  
 
-<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp5.gif"><br><caption>same solution on flat manifold</caption></p>  
+same solution on flat manifold:
+<p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp5.gif"></p>  
