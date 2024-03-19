@@ -23,7 +23,7 @@ initial condition:
 solution:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp1.gif"></p>  
 
-same solution on flat manifold:
+same solution on the flat manifold:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp1.gif"></p>  
 
 * $u_0(x,y)=0,\ f(x,y,t)=5\cdot exp(-\frac{3}{10}(x-\frac{3\pi}{2})^2 - (y+1)^2)\cdot sin(2\pi t)$
@@ -34,7 +34,7 @@ initial condition:
 solution:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp2.gif"></p>  
 
-same solution on flat manifold:
+same solution on the flat manifold:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp2.gif"></p>  
 
 * $u_0(x,y)=0,\ f(x,y,t)=5\cdot exp(-3(x-1-2(\pi-1)t)^2-5(y+1-2t)^2)$
@@ -45,7 +45,7 @@ initial condition:
 solution:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp4.gif"></p>  
 
-same solution on flat manifold:
+same solution on the flat manifold:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp4.gif"></p>  
 
 * $u_0(x,y)=0,\ f(x,y,t)=5\cdot sin(\frac{3x}{2}+2\pi t)\cdot sin(\pi y)$
@@ -56,5 +56,5 @@ initial condition:
 solution:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_exp5.gif"></p>  
 
-same solution on flat manifold:
+same solution on the flat manifold:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp5.gif"></p>  
