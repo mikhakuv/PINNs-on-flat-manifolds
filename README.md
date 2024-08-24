@@ -61,4 +61,4 @@ same solution on the flat manifold:
 <p align="center"><img src="https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/results/u_pred_surface_exp5.gif"></p>  
 
 All notebooks can be found in [the folder](https://github.com/mikhakuv/PINNs-on-flat-manifolds/tree/main/notebooks)  
-Also [thesis from the conference](https://github.com/mikhakuv/PINNs-on-flat-manifolds/tree/main/thesis_copy.pdf) is available (but only in Russian).
+Also [thesis from the conference](https://github.com/mikhakuv/PINNs-on-flat-manifolds/blob/main/thesis%20copy.pdf) is available (but only in Russian).
